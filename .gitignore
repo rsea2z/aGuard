@@ -1,0 +1,6 @@
+aGuard.exe
+aGuard.ini
+app.res.o
+*.log
+app.rc
+app.res
